@@ -1,6 +1,7 @@
 # Bumpify
-Bumpify is an AI for generating rap lyrics, using a recurrent neural network model which has learned from the lyrics to Billboard hits in the "Hip-hop/R&B" category from 2016-2018. Generate your own hit song with the touch of a button! Some samples can be found in the `generated songs` directory.
+Bumpify is an AI for generating rap lyrics, using a recurrent neural network model which has learned from the lyrics to Billboard hits in the "Hip-hop/R&B" category from 2016-2018. Generate your own hit song with the touch of a button! 
 
+Some samples can be found in the `generated songs` directory.
 
 Bumpify was created using Python, Flask, and several Python libraries we found online:
 
